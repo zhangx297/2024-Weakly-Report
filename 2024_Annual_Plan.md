@@ -7,7 +7,7 @@
 ### 2.	Reading Paper
  2.1	Understand SLAM frontier knowledge, Conduct ablation experiment, Construct innovative points. (2024.1.15-2024.7.15)  
  2.2	Understand Bev frontier knowledge of each branch, Conduct ablation experiment, Construct innovative points. (2024.1.30-2024.7.15)
-### 3.	Writing paper
+### 3.	Writing Paper
  3.1	SLAM（2024.7.15-2024.12.01）  
  3.2	Bev（2024.7.15-2024.11.01）
 ### 4.	2024 Results
