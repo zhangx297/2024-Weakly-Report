@@ -1,10 +1,10 @@
 # 2024-Weakly-Report
 2024  Weakly Report，Advisor Hongyu Wei，School of Future Technology, Shanghai University  
-2024 Plan:
-## 1.	Book
+## 2024 Plan:
+### 1.	Book
 1.1	14 lectures on visual SLAM（2023.12.01-2024.1.15）：Chapter One to Eight Theoretical Knowledge, Code practice.  
 1.2	DIVE INTO DEEP LEARNING（2024.1.10-2024.1.30）：Chapter Seven to Ten code practice
-## 2.	Reading Paper
+### 2.	Reading Paper
  2.1	Understand SLAM frontier knowledge, Conduct ablation experiment, Construct innovative points. (2024.1.15-2024.7.15)  
  2.2	Understand Bev frontier knowledge of each branch, Conduct ablation experiment, Construct innovative points. (2024.1.30-2024.7.15)
 ## 3.	Writing paper
