@@ -12,7 +12,7 @@
  3.2	Bev（2024.7.15-2024.11.01）
 ### 4.	2024 Results
 4.1	A paper (Chinese core journal/SCI/EI)  
-4.2	SCI (Preintegration-aideds image descriptor construction)  
+4.2	SCI (Preintegration-aided image descriptor construction)  
 4.3 PATENT (2024.10.01 – 2024.12.01)  
 ### 5.	Vocation
 Statutory holidays, Ten days' holiday in June
