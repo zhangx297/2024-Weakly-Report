@@ -1,5 +1,5 @@
-# 2024-Weakly-Report
-2024  Weakly Report，Advisor Hongyu Wei，School of Future Technology, Shanghai University  
+# 2024-Weekly-Report
+2024  Weekly Report，Advisor Hongyu Wei，School of Future Technology, Shanghai University  
 ## 2024 Plan:
 ### 1.	Book
 1.1	14 lectures on visual SLAM（2023.12.01-2024.1.15）：Chapter One to Eight Theoretical Knowledge, Code practice.  
